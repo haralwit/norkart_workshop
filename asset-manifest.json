@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/norkart_workshop/static/css/main.69eda509.chunk.css",
-    "main.js": "/norkart_workshop/static/js/main.b2fbe3cc.chunk.js",
-    "main.js.map": "/norkart_workshop/static/js/main.b2fbe3cc.chunk.js.map",
+    "main.js": "/norkart_workshop/static/js/main.45149c54.chunk.js",
+    "main.js.map": "/norkart_workshop/static/js/main.45149c54.chunk.js.map",
     "runtime-main.js": "/norkart_workshop/static/js/runtime-main.0381604e.js",
     "runtime-main.js.map": "/norkart_workshop/static/js/runtime-main.0381604e.js.map",
     "static/css/2.0a5b19c0.chunk.css": "/norkart_workshop/static/css/2.0a5b19c0.chunk.css",
     "static/js/2.16ab8709.chunk.js": "/norkart_workshop/static/js/2.16ab8709.chunk.js",
     "static/js/2.16ab8709.chunk.js.map": "/norkart_workshop/static/js/2.16ab8709.chunk.js.map",
     "index.html": "/norkart_workshop/index.html",
-    "precache-manifest.f35b33a31fb3e10c4c9567bca2b0f279.js": "/norkart_workshop/precache-manifest.f35b33a31fb3e10c4c9567bca2b0f279.js",
+    "precache-manifest.5d74c44c93dc952002ae5061777318c0.js": "/norkart_workshop/precache-manifest.5d74c44c93dc952002ae5061777318c0.js",
     "service-worker.js": "/norkart_workshop/service-worker.js",
     "static/css/2.0a5b19c0.chunk.css.map": "/norkart_workshop/static/css/2.0a5b19c0.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/norkart_workshop/static/css/main.69eda509.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0a5b19c0.chunk.css",
     "static/js/2.16ab8709.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.b2fbe3cc.chunk.js"
+    "static/js/main.45149c54.chunk.js"
   ]
 }
