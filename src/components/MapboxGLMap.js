@@ -54,10 +54,15 @@ const MapboxGLMap = () => {
     var layer_id = layer.target.id;
     map.setStyle("mapbox://styles/mapbox/" + layer_id)
   }
+  
+  const returnToMoholt = () => {
+    map.panTo([10.4326436, 63.4111865])
+  }
 
   return <div>
       <div ref={el => (mapContainer.current = el)} style={styles} />
       <div id="mapstylemenu" style = {mapstyle}>
+        <input id="return_moholt" type="button" name="rtoggle" value="MOHOLT TAKK!" onClick={returnToMoholt}/>
         <input id="streets-v11" type="radio" name="rtoggle" value="streets" onClick={switchLayer}/>
         <label for="streets-v11">streets</label>
         <input id="light-v10" type="radio" name="rtoggle" value="light" onClick={switchLayer}/>
