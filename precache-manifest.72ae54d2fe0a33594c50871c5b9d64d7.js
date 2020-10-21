@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c5577f413ff9d064cd305e117c49056",
+    "revision": "4793e9571b13d58ea062d2e3360b962f",
     "url": "/norkart_workshop/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/norkart_workshop/static/css/2.0a5b19c0.chunk.css"
   },
   {
-    "revision": "e25b7ac707a2c5bfa98b",
+    "revision": "a1258660c1fbaf77959f",
     "url": "/norkart_workshop/static/css/main.69eda509.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/norkart_workshop/static/js/2.16ab8709.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e25b7ac707a2c5bfa98b",
-    "url": "/norkart_workshop/static/js/main.45149c54.chunk.js"
+    "revision": "a1258660c1fbaf77959f",
+    "url": "/norkart_workshop/static/js/main.982eaacf.chunk.js"
   },
   {
     "revision": "b623e4760ccd0215dac7",
